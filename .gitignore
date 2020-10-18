@@ -1,0 +1,16 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Eclipse IDE ###
+.classpath
+.project
+.settings
+.metadata
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
